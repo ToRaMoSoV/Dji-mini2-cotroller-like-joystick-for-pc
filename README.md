@@ -7,6 +7,8 @@ Turn the DJI Mini 2 remote controller (RC‑N1, RCS231, WM161b‑RC‑N1) into a
 
 ## Использование / How to use
 
+![Интерфейс программы](visual.png)
+
 **Основные элементы интерфейса / Main interface elements**
 
 * **COM Port** – выбор последовательного порта, к которому подключён пульт.  
