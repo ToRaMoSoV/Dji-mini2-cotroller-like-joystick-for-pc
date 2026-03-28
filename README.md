@@ -1,4 +1,4 @@
-# DJI Mini 2 RC to Xbox Controller
+# DJI Mini 2 RC to Xbox Controller for windows
 
 Преобразование пульта управления дрона DJI Mini 2 (RC‑N1, RCS231, WM161b‑RC‑N1) в игровой контроллер Xbox 360 для ПК.  
 Программа предназначена для использования в FPV‑симуляторах (Liftoff, VelociDrone, DRL и др.) и любых играх, поддерживающих геймпад.
