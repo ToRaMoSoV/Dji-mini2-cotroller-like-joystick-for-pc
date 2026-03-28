@@ -66,6 +66,15 @@ Turn the DJI Mini 2 remote controller (RC‑N1, RCS231, WM161b‑RC‑N1) into a
 - Пульт DJI Mini 2, подключённый к ПК через USB (определяется как COM-порт)  
   DJI Mini 2 remote controller connected via USB (appears as a COM port)
 
+## Подключение пульта / Connecting the remote controller
+
+- Подключите пульт к ПК через USB-кабель в **задний порт** (порт для зарядки, расположенный на нижней части пульта, где находятся пазы для стиков).  
+  *Connect the remote controller to your PC via USB cable into the **rear port** (the charging port located on the bottom of the controller, where the stick slots are).*
+- Включите пульт (нажмите и удерживайте кнопку питания).  
+  *Turn on the remote controller (press and hold the power button).*
+- После подключения в Диспетчере устройств должен появиться COM-порт.  
+  *After connection, a COM port should appear in Device Manager.*
+
 **Установка / Installation**
 
 1. Установите vJoy и ScpVBus, следуя инструкциям на их страницах (запуск от имени администратора, перезагрузка).  
@@ -189,6 +198,15 @@ Turn the DJI Mini 2 remote controller (RC‑N1, RCS231, WM161b‑RC‑N1) into a
 Если ни один из способов не помог, создайте issue на GitHub с описанием проблемы и логами из консоли.  
 *If none of the above helps, please open an issue on GitHub with a description of the problem and console logs.*
 
+---
+
 ## Автор / Author
 
 Created by Nill|981
+
+## Благодарности / Acknowledgements
+
+Проект вдохновлён идеей [usatenko/DjiMini2RCasJoystick](https://github.com/usatenko/DjiMini2RCasJoystick).  
+*This project is inspired by the work of [usatenko/DjiMini2RCasJoystick](https://github.com/usatenko/DjiMini2RCasJoystick).*
+
+
